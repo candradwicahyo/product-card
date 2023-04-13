@@ -1,6 +1,8 @@
 # product card
 
-dibuat dengan menggunakan html, css dan javascript. di program ini ketika kalian menekan tombol bulat yang ada di bawah gambar, maka gambar sepatu dan hal lainnya juga akan berubah warna sesuai dengan warna tombol yang kalian tekan. jika kalian menekan tombol berwarna merah maka gambar sepatu tersebut akan berganti warna merah dan tombol, harga dan warna background juga akan berganti ke warna merah.
+dibuat dengan menggunakan html, css dan javascript. di program ini ketika kalian menekan tombol bulat yang ada di bawah gambar, maka gambar sepatu dan hal lainnya juga akan berubah warna sesuai dengan warna tombol yang kalian tekan. 
+
+jika kalian menekan tombol berwarna merah maka gambar sepatu tersebut akan berganti warna merah dan tombol, harga dan warna background juga akan berganti ke warna merah.
 
 ## dibuat dengan berikut
 
@@ -20,7 +22,7 @@ dibuat dengan menggunakan html, css dan javascript. di program ini ketika kalian
 buka command prompt kalian di handphone maupun di laptop/pc, install git lalu ketikkan kode dibawah ini
 
 ```bash 
-git clone https://github.com/candradwicahyo/repo.git
+git clone https://github.com/candradwicahyo/product-card.git
 ```
 
 ## preview dan demo 
